@@ -1,4 +1,0 @@
-bedecarroll.github.io
-=====================
-
-Blog
