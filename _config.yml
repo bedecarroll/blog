@@ -3,7 +3,7 @@ description: Admit nothing, deny everything and make counter-accusations
 
 markdown: redcarpet
 highlighter: pygments
-logo: false
+logo: 'https://avatars.githubusercontent.com/u/4151340?v=3'
 paginate: 15
 baseurl: /
 domain_name: 'http://bedecarroll.github.io'
