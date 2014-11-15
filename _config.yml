@@ -3,6 +3,10 @@ url: "http://bedecarroll.github.io" # the base hostname & protocol for your site
 title: Bede Carroll
 description: Admit nothing, deny everything and make counter-accusations
 
+author:
+    name: "Bede Carroll"
+    twitter: bedecarroll
+
 gems:
     - jemoji
 exclude:
