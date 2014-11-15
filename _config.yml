@@ -1,9 +1,27 @@
-name: Bede Carroll
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://bedecarroll.github.io" # the base hostname & protocol for your site
+title: Bede Carroll
 description: Admit nothing, deny everything and make counter-accusations
 
-markdown: redcarpet
-highlighter: pygments
-logo: false
-paginate: 15
-baseurl: /
-domain_name: 'http://bedecarroll.github.io'
+gems:
+    - jemoji
+exclude:
+    - "README.md"
+    - "CHANGELOG.md"
+    - "CNAME"
+    - "Gemfile"
+    - "Gemfile.lock"
+permalink: :title
+defaults:
+    -
+        scope:
+            path: ""
+            type: "pages"
+        values:
+            layout: "default"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: "post"
