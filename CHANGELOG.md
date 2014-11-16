@@ -6,3 +6,5 @@ Added social icons by Lee Gargano (using 32x32 versions) to nav-right.html
 Changed Gemfile to match http://jekyllrb.com/docs/github-pages/
 Removed twitter script from scripts.html as we are non-tracking
 Added share links for Google+, LinkedIn, Twitter and Facebook to post-footer.html
+
+Added all the supported Github pages gems
