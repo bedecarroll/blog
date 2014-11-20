@@ -8,3 +8,4 @@ Removed twitter script from scripts.html as we are non-tracking
 Added share links for Google+, LinkedIn, Twitter and Facebook to post-footer.html
 
 Added all the supported Github pages gems
+added _drafts folder
