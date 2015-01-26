@@ -9,3 +9,8 @@ Added share links for Google+, LinkedIn, Twitter and Facebook to post-footer.htm
 
 Added all the supported Github pages gems
 added _drafts folder
+http://joelglovier.com/writing/rss-for-jekyll/
+http://learn.andrewmunsell.com/learn/jekyll-by-example/tutorial
+http://joshualande.com/jekyll-github-pages-poole/
+http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
+http://sixrevisions.com/web-standards/5-web-files-that-will-improve-your-website/
