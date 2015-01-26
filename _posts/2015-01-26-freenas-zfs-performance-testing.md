@@ -50,11 +50,13 @@ But if the issues were performance based would I be shooting myself in the foot 
 * Both paths (cables) connected from HBA to enclosure
 
 # Methodology
+* FreeNAS version 9.3
 * Testing used Bonnie++
   * IOZONE using the `System -> Advanced -> Performance Test` option were also performed however the Bonnie++ information was more useful
 * Test steps can be found at http://pivotallabs.com/high-performing-mid-range-nas-server/ in section `8. BENCHMARKING FREENAS`
 * Test order was 2 VDEV then 1 VDEV as 2 VDEVs is the default created by the FreeNAS wizard
 * Once the first test was complete the `tank` volume was deleted with the `Mark the disks as new (destroy data)` option **not** set
+* Wizard defaults were used so compression with the lz4 algorithm is turned on
 
 # VDEV Layout
 ## 1 VDEV
