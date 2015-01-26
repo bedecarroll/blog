@@ -2,6 +2,8 @@ baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the r
 url: "http://bedecarroll.com" # the base hostname & protocol for your site
 title: Bede Carroll
 description: Admit nothing, deny everything and make counter-accusations
+markdown: redcarpet
+extensions: [fenced_code_blocks]
 
 author:
     name: "Bede Carroll"
