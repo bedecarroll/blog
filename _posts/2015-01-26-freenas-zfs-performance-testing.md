@@ -63,32 +63,7 @@ But if the issues were performance based would I be shooting myself in the foot 
 {% gist a8c38878025f5b4362a9 %}
 
 ## 2 VDEV
-```
-# zpool status tank
-  pool: tank
- state: ONLINE
-  scan: none requested
-config:
-
-    NAME                                            STATE     READ WRITE CKSUM
-    tank                                            ONLINE       0     0     0
-      raidz2-0                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-      raidz2-1                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-
-errors: No known data errors
-```
+{% gist 8b8b36f61197cff8063b %}
 
 # Results
 * Raw Bonnie++ logs were parsed with `bonnie++_to_readable.rb`
