@@ -60,31 +60,7 @@ But if the issues were performance based would I be shooting myself in the foot 
 
 # VDEV Layout
 ## 1 VDEV
-```
-# zpool status tank
-  pool: tank
- state: ONLINE
-  scan: none requested
-config:
-
-    NAME                                            STATE     READ WRITE CKSUM
-    tank                                            ONLINE       0     0     0
-      raidz2-0                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-        gptid/                                      ONLINE       0     0     0
-
-errors: No known data errors
-```
+{% gist a8c38878025f5b4362a9 %}
 
 ## 2 VDEV
 ```
