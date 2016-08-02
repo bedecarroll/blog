@@ -18,6 +18,9 @@ gems:
     - jekyll-sitemap
     - jekyll-feed
 
+include:
+    - ".well-known"
+
 exclude:
     - "README.md"
     - "CHANGELOG.md"
