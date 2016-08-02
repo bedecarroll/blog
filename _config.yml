@@ -3,10 +3,7 @@ url: "https://bedecarroll.com" # the base hostname & protocol for your site
 title: Bede Carroll
 name: Bede Carroll
 description: Admit nothing, deny everything and make counter-accusations
-# Fix highlighting as per http://stackoverflow.com/questions/16099153/table-not-render-when-use-redcarpet-in-jekyll-github-pages
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "superscript"]
+markdown: kramdown
 
 author:
     name: "Bede Carroll"
