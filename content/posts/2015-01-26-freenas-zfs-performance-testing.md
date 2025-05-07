@@ -1,9 +1,6 @@
 +++
 title = 'FreeNAS/ZFS performance testing'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2015/01/26/freenas-zfs-performance-testing/'
-date = 2015-01-26
+date = "2015-01-26T08:00:00+09:30"
 categories = ['FreeNAS', 'ZFS']
 +++
 
@@ -26,7 +23,7 @@ catch. Once I got into my system I found my pool size was about 28 TiB.
 This was a bit of a shock as I was expecting a bit more than that for all
 those drives! So then I started doing the sums:
 
-* 4 TB drives = about 3.6 TiB (AKA formated capacity)
+* 4 TB drives = about 3.6 TiB (AKA formatted capacity)
 * 12 x 3.6 TiB = 43.2 TiB
 * 12 drives with 2 drives worth of parity = 10 data disks
 * 43.2 TiB - 7.2 TiB = 36 TiB
@@ -144,4 +141,4 @@ cases (primarily cold storage and streaming reads) the writes seem
 acceptable. I'll be looking at an SLOG but my understanding is this is only
 useful for sync writes which will be no help with SMB clients. In the end I
 will be going to a single 12 drive RAID-Z2 VDEV as the space will be more
-useful for me than the speed. Your mileage may vary of couse.
+useful for me than the speed. Your mileage may vary of course.
