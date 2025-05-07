@@ -132,3 +132,7 @@ home = ["HTML", "AMP", "RSS"]
 
 [outputFormats.RSS]
 baseName = "feed"
+
+[permalinks]
+[permalinks.page]
+posts = "/:year/:month/:day/:slug/"
