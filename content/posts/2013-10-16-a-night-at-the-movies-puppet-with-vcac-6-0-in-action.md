@@ -13,10 +13,10 @@ that goes through some of the concepts in the video.
 I really think this sort of integration where you can configure the service,
 ensure the service is as designed and publish the service to end users (vCAC
 also includes a service provisioning portal, custom forms and all!) is the
-way forward. I’m sure there are plenty of other competing products (I can
+way forward. I'm sure there are plenty of other competing products (I can
 think of a dozen off the top of my head) but the difference, from the
 outside, is the ability to get right into the guts of the system. vCAC not
-doing something for you out of the box? Fine I’ll just write a Puppet module.
+doing something for you out of the box? Fine I'll just write a Puppet module.
 Need to perform some bizarre provisioning logic? vCO has you covered.
 
 The future really does appear to be code.

@@ -4,10 +4,10 @@ date = '2013-11-05T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 
-When PowerShell 3.0 was released one of the little &#8220;surprises&#8221; was
+When PowerShell 3.0 was released one of the little "surprises" was
 that the help included in the download was a short stub. If you wanted the
 full help available in your PowerShell session then you need to use the cmdlet
-*Update-Help*. While i&#8217;ve now gotten over the shock (I&#8217;ve adapted to
+*Update-Help*. While i've now gotten over the shock (I've adapted to
 just using Google) it is still important to find out what is changing in the
 documentation.
 

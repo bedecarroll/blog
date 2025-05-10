@@ -1,5 +1,5 @@
 +++
-title = 'Quick Note: The size of VMware’s internal network'
+title = "Quick Note: The size of VMware's internal network"
 date = '2013-10-18T08:00:00+09:30'
 categories = ['Uncategorized']
 +++

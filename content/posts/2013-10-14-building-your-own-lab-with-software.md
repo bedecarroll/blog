@@ -4,7 +4,7 @@ date = '2013-10-14T08:00:00+09:30'
 categories = ['Uncategorized']
 +++
 
-For some time now I’ve been designing and developing some labs to replace the
+For some time now I've been designing and developing some labs to replace the
 coming void that will be left by TechNet ([please sign the petition!][1]).
 My efforts have been focused on using VMware Fusion in conjunction with
 Vagrant and Packer. Both Vagrant and Packer are big deals in the DevOps
@@ -16,7 +16,7 @@ is where Vagrant really shines. Vagrant is essentially a controller for you
 virtual lab and Packer is a tool that can build virtual machine templates in
 an automated fashion.
 
-I’ve been uploading my work to [my GitHub page][2], if you’d like to take a
+I've been uploading my work to [my GitHub page][2], if you'd like to take a
 look and get a head start on these tools. Very much a work in progress
 though. I believe that working with this sort of tech can give you the
 mindset that you need for future environments, no more snowflake servers!

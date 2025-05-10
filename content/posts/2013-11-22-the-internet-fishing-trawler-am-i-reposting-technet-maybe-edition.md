@@ -12,7 +12,7 @@ categories = ['The Internet Fishing Trawler']
     Honestly in this day and age if you are using RC4 I would be very worried.
 
 * Over at TechNet Magazine there is a (semi) interesting post on
-    [not touching things that shouldn&#8217;t be touched](http://technet.microsoft.com/en-us/magazine/dn456530.aspx),
+    [not touching things that shouldn't be touched](http://technet.microsoft.com/en-us/magazine/dn456530.aspx),
     e.g magic registry keys. Honestly I found it a bit long winded and would
     have preferred some technical examples but the general idea is there and
     one I support. Most software comes with sane defaults these days, going
@@ -20,7 +20,7 @@ categories = ['The Internet Fishing Trawler']
 
 * Another one at TechNet Magazine, this time on
     [resource management in cloud computing](http://technet.microsoft.com/en-us/magazine/dn456533.aspx).
-    If you work in &#8220;the cloud&#8221; it should provide some thinking
+    If you work in "the cloud" it should provide some thinking
     material.
 
 * Last one from TechNet Magazine, I promise!, is on

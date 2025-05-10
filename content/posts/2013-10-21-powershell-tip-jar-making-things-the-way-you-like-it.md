@@ -5,7 +5,7 @@ categories = ['PowerShell Tip Jar']
 +++
 
 Have you got a nice *New-Alias* setup you wish were available every time you
-opened PowerShell? How about a cool function you’ve written that you’d like
+opened PowerShell? How about a cool function you've written that you'd like
 to not have to import at the start of each session? Well the PowerShell
 profile is for you! This little text file will allow you to put pretty much
 any PowerShell command in it and have it run every time you open a new

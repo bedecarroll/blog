@@ -8,7 +8,7 @@ categories = ['The Internet Fishing Trawler']
     features in there. Eric Shanks at The IT Hollow has [a great break down on
     the new features](http://theithollow.com/2013/10/vmware-vcops-5-8-announced/).
 
-* By default you can’t really get data out of vCOps but there is a
+* By default you can't really get data out of vCOps but there is a
     [community PowerShell module](http://velemental.com/2012/09/04/unofficial-vmware-vcenter-operations-powershell-module/)
     to allow you to get the stats out. [Brian Wuchner over at
     EnterpriseAdmins.org shows how to use it](http://enterpriseadmins.org/blog/scripting/getting-data-out-of-vcops/).
@@ -24,5 +24,5 @@ categories = ['The Internet Fishing Trawler']
     versions.
 
 * The Cisco Security blog has a post on [a topic everyone loves, logs](http://blogs.cisco.com/security/making-boring-logs-interesting/)!
-    The title is “Making Boring Logs Interesting”, I’m sure they mean
+    The title is "Making Boring Logs Interesting", I'm sure they mean
     interesting as in useful and not to make it an interesting read. Maybe…

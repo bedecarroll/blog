@@ -6,7 +6,7 @@ categories = ['The Internet Fishing Trawler']
 
 - Brian Madden has [a great post on Windows desktop
   management](http://www.brianmadden.com/blogs/brianmadden/archive/2013/12/03/as-more-apps-move-off-windows-a-quot-well-managed-quot-desktop-is-worth-less-and-less.aspx).
-  I’d argue that the utility of “curating” a Windows environment is no
+  I'd argue that the utility of "curating" a Windows environment is no
   where near what it once was. Do we really care that all users have the
   same background or that the notification area shows all icons? I doubt
   it. Perhaps we need to quantify the cost of all these configuration
@@ -18,9 +18,9 @@ categories = ['The Internet Fishing Trawler']
   with PowerCLI, word is it is being worked on though.
 
 - Dell have [announced they are working on integrating Puppet into
-  “Active System Manager”](http://en.community.dell.com/dell-blogs/dell4enterprise/b/dell4enterprise/archive/2013/12/04/dell-and-puppet-labs-helping-customers-manage-their-heterogeneous-environments.aspx).
-  I don’t really know to much about ASM but it appears to be their
-  infrastructure manager. I’ll be interested to see the benefits of the
+  "Active System Manager"](http://en.community.dell.com/dell-blogs/dell4enterprise/b/dell4enterprise/archive/2013/12/04/dell-and-puppet-labs-helping-customers-manage-their-heterogeneous-environments.aspx).
+  I don't really know to much about ASM but it appears to be their
+  infrastructure manager. I'll be interested to see the benefits of the
   integration.
 
 - For those of you doing a CCIE, [Cisco have updated the CCIE Routing and

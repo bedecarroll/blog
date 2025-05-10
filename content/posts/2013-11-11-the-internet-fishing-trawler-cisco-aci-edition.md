@@ -10,20 +10,20 @@ categories = ['The Internet Fishing Trawler']
 
 * Still at the Data Center and Cloud blog there is
   [another post that details some of the partners that Cisco have lined up for ACI](http://blogs.cisco.com/datacenter/application-centric-infrastructure-aci-includes-strong-partner-ecosystem-for-security-and-network-services/).
-  I'm guessing these are all companies that don&#8217;t compete with
+  I'm guessing these are all companies that don't compete with
   Cisco directly (e.g. now that ACE is dead f5 are free to partner).
 
-* Speaking of f5, as part of ACI they&#8217;ve announced support or
-    compatibility between it and the f5 Synthesis &#8220;SDAS&#8221;
-    architecture. Thankfully there is some kind of &#8220;detail&#8221; in the
+* Speaking of f5, as part of ACI they've announced support or
+    compatibility between it and the f5 Synthesis "SDAS"
+    architecture. Thankfully there is some kind of "detail" in the
     form of
     [a solution overview](http://www.cisco.com/en/US/solutions/collateral/ns340/ns517/ns224/ns945/solution-brief-c22-730004.html).
     I really want to start seeing more technical detail though, but I have a
-    feeling this is all way to new and it just doesn&#8217;t exist.
+    feeling this is all way to new and it just doesn't exist.
 
 * For a bit of outside perspective, SDN Central have been covering the
     announcement and have an article,
-    [&#8220;Is Cisco&#8217;s SND Architecture Really That Special?&#8220;](http://www.sdncentral.com/news/is-cisco-sdn-architecture-really-that-special/2013/11/).
+    ["Is Cisco's SND Architecture Really That Special?"](http://www.sdncentral.com/news/is-cisco-sdn-architecture-really-that-special/2013/11/).
     It is always good to hear outside the echo chamber.
 
 * Thankfully SDN Central again rides to the rescue with

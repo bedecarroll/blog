@@ -13,7 +13,7 @@ categories = ['The Internet Fishing Trawler']
     [head on over to the Dell TechCenter to see all the little goodies](http://en.community.dell.com/techcenter/b/techcenter/archive/2013/11/27/dell-management-packs-now-support-microsoft-system-center-2012-r2.aspx).
 
 * I tend to rebuild my lab vCenter pretty often and now that I use the Nexus
-    1000v I think these awesome notes from Vallard at Vallard&#8217;s Tech
+    1000v I think these awesome notes from Vallard at Vallard's Tech
     Notes on
     [how to reconnect to an orphaned n1kv will come in handy](http://benincosa.com/blog/?p=808).
     Definitely one to keep around.

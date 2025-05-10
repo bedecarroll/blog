@@ -5,14 +5,14 @@ categories = ['The Internet Fishing Trawler']
 +++
 
 - Chris M Evans over at ArchitectingIT has a good post on
-  [why he doesn&#8217;t want to see a ten year old flash array](http://architecting.it/2013/12/20/a-ten-year-flash-array-no-thanks/).
-  I honestly don&#8217;t think to many organisations really keep ancient
+  [why he doesn't want to see a ten year old flash array](http://architecting.it/2013/12/20/a-ten-year-flash-array-no-thanks/).
+  I honestly don't think to many organisations really keep ancient
   arrays around as their primary storage array, the support costs alone
   would be astronomical.
 
 - Speaking of flash, the VMware vSphere blog has a useful post on
   [VSAN hardware guidance with SSDs](http://blogs.vmware.com/vsphere/2013/12/virtual-san-hardware-guidance-part-1-solid-state-drives.html).
-  I&#8217;ve linked to the first part in the series. I think I&#8217;ll be
+  I've linked to the first part in the series. I think I'll be
   holding off till the next generation of servers come out, sometime
   this year (2014).
 
@@ -24,8 +24,8 @@ categories = ['The Internet Fishing Trawler']
 - If you jump through some hoops you can
   [get Windows Server 2012 to blue screen when removing and adding an SSD](http://support.microsoft.com/kb/2916984).
   I doubt many people are going to trip this one but I found the
-  &#8220;status&#8221; to be a bit funny, it basically says Microsoft
-  could fix it with some random update in the future. Lucky it isn&#8217;t
+  "status" to be a bit funny, it basically says Microsoft
+  could fix it with some random update in the future. Lucky it isn't
   a bigger issue!
 
 - If you are looking hard at PowerShell Desired State Configuration (DSC)

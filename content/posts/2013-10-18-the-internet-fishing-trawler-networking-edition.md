@@ -13,18 +13,18 @@ categories = ['The Internet Fishing Trawler']
 
 * Another post from Cisco, the security blog this time, about onePK. onePK
     is an API framework for managing Cisco devices. This is part of the whole
-    “SDN” universe which you could dedicate hundreds of blogs to appropriately
+    "SDN" universe which you could dedicate hundreds of blogs to appropriately
     cover. The Cisco Security blog has a series on onePK and a demo
     application (or is it just app now days?) on how to use it. [Part 1](http://blogs.cisco.com/security/ciscos-onepk-part-2-reaching-out-to-a-network-element/)
     and [Part 2](http://blogs.cisco.com/security/ciscos-onepk-part-1-introduction/).
 
-* Of course Cisco isn’t the only one with a horse in the SDN race, VMware
-    are out touting the GA of NSX. I’ll be looking at getting that going in my
-    lab at some point but I feel I’ll need a deeper understanding of the
-    hardware requirements in case I’m missing something. With that in mind
+* Of course Cisco isn't the only one with a horse in the SDN race, VMware
+    are out touting the GA of NSX. I'll be looking at getting that going in my
+    lab at some point but I feel I'll need a deeper understanding of the
+    hardware requirements in case I'm missing something. With that in mind
     VMware are showing off their visibility tools for networking and I have to
-    admit, I’m pretty impressed. I think if you were a pure virtualisation
-    shop (NSX is multi-hypervisor) then you’d be hard pressed to want another
+    admit, I'm pretty impressed. I think if you were a pure virtualisation
+    shop (NSX is multi-hypervisor) then you'd be hard pressed to want another
     networking monitoring tool. [Just look at the pretty pictures](http://blogs.vmware.com/networkvirtualization/2013/10/vmware-nsx-visibility-sddc.html)!
 
 * It appears Hyper-V 2012 has a bug with the port mirroring feature, it
@@ -43,10 +43,10 @@ categories = ['The Internet Fishing Trawler']
     provide stable addressing for internal resources. That seems the most
     logical to me.
 
-That wraps up this edition but I’d like to leave you with a bonus link, [the
+That wraps up this edition but I'd like to leave you with a bonus link, [the
 DevOps Reactions Tumblr](http://devopsreactions.tumblr.com/post/44533510436/when-someone-breaks-established-naming-conventions).
 As this post will be out on a Friday I think everyone needs a good laugh.
-I’ve linked straight to one of my favourite ones, what to do when someone
-breaks the naming convention. I’d caution you though, you can easily get
+I've linked straight to one of my favourite ones, what to do when someone
+breaks the naming convention. I'd caution you though, you can easily get
 stuck on that site laughing and nodding your head as the time passes by.
 Almost as bad as [TVTropes.org](http://tvtropes.org)!

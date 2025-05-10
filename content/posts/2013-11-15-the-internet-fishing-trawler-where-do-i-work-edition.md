@@ -13,7 +13,7 @@ categories = ['The Internet Fishing Trawler']
 
 * Chuck Hollis has
     [a bit of background on VMware+OpenStack](http://chucksblog.emc.com/chucks_blog/2013/11/vmware-and-openstack-better-together.html).
-    I think it is all pretty cool and if you have a spare 45 minutes I&#8217;d
+    I think it is all pretty cool and if you have a spare 45 minutes I'd
     really recommend doing the Project NEE (VMware HOL) OpenStack lab.
 
 * Over at Blades Made Simple, Kevin Houston has updated
@@ -32,4 +32,4 @@ categories = ['The Internet Fishing Trawler']
     UID0 privileges. Thankfully due to the power of open source it was
     stopped. Ed Felten has
     [a great write up on the incident](https://freedom-to-tinker.com/blog/felten/the-linux-backdoor-attempt-of-2003/).
-    I wonder how many are lurking out there&#8230;
+    I wonder how many are lurking out there...

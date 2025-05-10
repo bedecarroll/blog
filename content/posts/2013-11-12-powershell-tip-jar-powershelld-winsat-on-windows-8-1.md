@@ -1,11 +1,11 @@
 +++
-title = 'PowerShell Tip Jar: PowerShell&#8217;d WinSAT on Windows 8.1'
+title = "PowerShell Tip Jar: PowerShell'd WinSAT on Windows 8.1"
 date = '2013-11-12T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 
 This idea comes from one of the awesome engineers I work with,
-[Chris Tester](au.linkedin.com/pub/chris-tester/7/a82/b62). We&#8217;ve
+[Chris Tester](au.linkedin.com/pub/chris-tester/7/a82/b62). We've
 recently updated our laptops to Windows 8.1 and Microsoft in their infinite
 wisdom have removed the old Windows Experience Index page. Not that WEI was
 anything fantastic but it did give a nice easy way to compare computers
@@ -15,7 +15,7 @@ tablets? Or did the OEMs not like it?
 
 Anyway, it turns out that the underlying tool for WEI, WinSAT lives on! This
 is good news as it means the Win32_WinSAT class will still be updated with the
-correct values. So to get this little functionality I&#8217;ve written a
+correct values. So to get this little functionality I've written a
 (rather long) PowerShell one-liner that displays the WinSAT values as per the
 old WEI names using expressions.
 
@@ -29,7 +29,7 @@ tool to try some different things. Just a few things off the top of my head:
     would your previous attempt scale?
 * The WEI used to have descriptions of all the fields, how about using a
     custom PSObject to make it look even more like WEI?
-* Unfortunately you can&#8217;t force a WinSAT run using WMI but you can
+* Unfortunately you can't force a WinSAT run using WMI but you can
     using the *winsat formal* command, how would you integrate that
     functionality?
 

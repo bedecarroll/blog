@@ -4,8 +4,8 @@ date = '2013-12-18T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 
-- I’m very happy to see that vCAC 6.0 is out and it looks much nicer to
-  install now, being a vApp and all. I’d recommend have a read of the
+- I'm very happy to see that vCAC 6.0 is out and it looks much nicer to
+  install now, being a vApp and all. I'd recommend have a read of the
   [release notes on the VMware website](https://www.vmware.com/support/vcac/doc/vcloud-automation-center-60-release-notes.html).
   When I get a chance I hope to put it through its paces in my lab.
 

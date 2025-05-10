@@ -15,7 +15,7 @@ categories = ['The Internet Fishing Trawler']
 
 * In more interesting news, the myvirtualcloud.net blog has [an interesting
     post on a VDI solution out in the sticks and the educational outcomes
-    they helped provide](http://myvirtualcloud.net/?p=5522). I’m still a
+    they helped provide](http://myvirtualcloud.net/?p=5522). I'm still a
     little fuzzy on how the tech was setup but I can only assume it was a
     local VDI solution and not over their tiny 2Mb/s VSAT.
 

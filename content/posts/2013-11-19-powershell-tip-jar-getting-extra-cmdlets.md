@@ -4,7 +4,7 @@ date = '2013-11-19T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 
-So you&#8217;re starting to get the hang of this PowerShell stuff and are able
+So you're starting to get the hang of this PowerShell stuff and are able
 to pull off your own fancy tricks with the builtin cmdlets, but you need more!
 You want to be able to do things like create computer accounts, get VMware
 host information or turn on Cisco UCS and HP blades, cool stuff! Well, there
@@ -29,7 +29,7 @@ little exercise a try:
 5. Now have a look at all the shiny new cmdlets using *Get-Command -Module ActiveDirectory*
 6. Profit!!!
 
-Now if you want to use some of the vendor cmdlets they require &#8220;snapins&#8221;
+Now if you want to use some of the vendor cmdlets they require "snapins"
 instead of modules. The process is largely the same though, e.g.
 *Add-PSSnapin VMware**.
 

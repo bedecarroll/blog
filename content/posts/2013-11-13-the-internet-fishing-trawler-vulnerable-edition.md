@@ -9,7 +9,7 @@ categories = ['The Internet Fishing Trawler']
   [doing some analysis of the IPMI implementation in SuperMicro servers](https://community.rapid7.com/community/metasploit/blog/2013/11/05/supermicro-ipmi-firmware-vulnerabilities)
   and have found a few things.
   There will be some Metasploit modules released. While SuperMicro is the
-  target here, if you watch your favourite hardware vendor&#8217;s
+  target here, if you watch your favourite hardware vendor's
   announcements you will see this is something they all struggle with.
 
 * There is a
@@ -17,7 +17,7 @@ categories = ['The Internet Fishing Trawler']
     While it affects older software and versions of Windows, Lync 2010 and
     2013 versions are affected on the client side.
 
-* It feels like forever that we&#8217;ve been at the 4TB HDD level but
+* It feels like forever that we've been at the 4TB HDD level but
     [HGST have announced a 6TB hard drive](http://architecting.it/2013/11/06/6tb-hgst-helium-drive-continues-move-to-two-tier-storage/).
     I bet this will be hellishly expensive (it is airtight and using helium
     due to the lower density) so I doubt we will be filling up our NASes with

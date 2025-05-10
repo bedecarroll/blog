@@ -7,7 +7,7 @@ categories = ['The Internet Fishing Trawler']
 - A bit of a troubling VMware KB, [it seems E1000 adapters can cause a
   purple screen of death (PSOD)](http://kb.vmware.com/kb/2059053‎). The
   remediation is to either use VMXNET3 adapters or disable RSS inside the
-  VMs. I’ve tried to move away from E1000 to VMXNET3 but this is still one
+  VMs. I've tried to move away from E1000 to VMXNET3 but this is still one
   to watch out for.
 
 - A Microsoft one this time, there is [a potential for data loss when

@@ -20,19 +20,19 @@ categories = ['The Internet Fishing Trawler']
     mice and elephants issue (thought they may know it by a different name).
     Over at the Network Heresy blog there is
     [a great post that gives you a primer on the issue and some potential workarounds](http://networkheresy.com/2013/11/01/of-mice-and-elephants/).
-    I&#8217;ll be very interested to see the Open vSwitch based solutions in
+    I'll be very interested to see the Open vSwitch based solutions in
     action. Helping to solve/alleviate issues like these is really where the
     power of SDN lies.
 
 * F5 are launching their SD* (at this point should we just drop the whole SD
-    prefix?) strategy to push the whole &#8220;Software Defined&#8221; up the
+    prefix?) strategy to push the whole "Software Defined" up the
     stack to layer 7.
     [SDNCentral have the details on their announcement](http://www.sdncentral.com/news/f5-takes-last-step-virtual-reality/2013/11/).
-    I&#8217;ll be interested to read about it when/if it gets released.
+    I'll be interested to read about it when/if it gets released.
 
 * Groupon have
     [a really interesting post on the rewrite of their core web application](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/).
     I have to admit I always find these software architecture posts
-    interesting, I&#8217;ve written a few little apps in my time but the idea
+    interesting, I've written a few little apps in my time but the idea
     of scaling things to the size that these companies require is always
     impressive.

@@ -9,15 +9,15 @@ categories = ['The Internet Fishing Trawler']
   configurations with Honeyd](http://mauveweb.co.uk/posts/2013/12/load-balancer-testing-with-honeyd.html).
   Fantastic idea!
 
-- A great post by AirBnB on [their “SmartStack” service discovery
+- A great post by AirBnB on [their "SmartStack" service discovery
   software they have written to support their Service Oriented
   Architecture (SOA)](http://nerds.airbnb.com/smartstack-service-discovery-cloud/).
   I really like these posts as they give a great insight into how other
   people are designing their systems.
 
-- Alan Renouf over at Virtu-Al has a blog series called “[Top 10
-  Automation Tips](http://www.virtu-al.net/2013/12/13/automation-tip-3its-people/)“.
-  I’ve linked to tip three, “It’s all about people”, because it really is
+- Alan Renouf over at Virtu-Al has a blog series called "[Top 10
+  Automation Tips](http://www.virtu-al.net/2013/12/13/automation-tip-3its-people/)".
+  I've linked to tip three, "It's all about people", because it really is
   all about the people. I think this is especially true if you work in a
   normal organisation and not one of those young start-ups or cloud
   providers. The requirements for successful automation go well beyond
@@ -34,7 +34,7 @@ categories = ['The Internet Fishing Trawler']
   the guest operating system, all those super fancy application metrics
   will no doubt need an agent.
 
-- SDNCentral has an article on an idea which I’m assuming would have been
+- SDNCentral has an article on an idea which I'm assuming would have been
   floating around for awhile now, [merge NVGRE and
   VXLAN](http://www.sdncentral.com/sdn-blog/nvgre-merge-vxlan/2013/12/). By
   the looks of things the battle was fought and NVGRE lost.

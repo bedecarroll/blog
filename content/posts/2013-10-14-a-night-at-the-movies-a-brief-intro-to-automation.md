@@ -5,7 +5,7 @@ categories = ['A Night At The Movies']
 +++
 
 This is a presentation by Nick Weaver at PuppetConf 2013, although it really
-doesn’t have to much to do with Puppet I found it to be an interesting talk
+doesn't have to much to do with Puppet I found it to be an interesting talk
 on the whats and whys of automation.
 
 At the end of the presentation Nick gives his recommendations on how to get
