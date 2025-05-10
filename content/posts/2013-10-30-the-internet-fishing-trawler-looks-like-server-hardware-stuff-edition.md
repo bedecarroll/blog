@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Looks Like Server Hardware Stuff Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/30/the-internet-fishing-trawler-looks-like-server-hardware-stuff-edition/'
-date = 2013-10-30
+date = '2013-10-30T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

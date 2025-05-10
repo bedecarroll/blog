@@ -1,9 +1,6 @@
 +++
 title = 'PowerShell Tip Jar: Following Help Updates'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/05/powershell-tip-jar-following-help-updates/'
-date = 2013-11-05
+date = '2013-11-05T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 

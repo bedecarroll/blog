@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: People Are Still On XP? Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/08/the-internet-fishing-trawler-people-are-still-on-xp-edition/'
-date = 2013-11-08
+date = '2013-11-08T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

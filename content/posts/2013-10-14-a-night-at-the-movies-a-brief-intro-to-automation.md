@@ -1,9 +1,6 @@
 +++
 title = 'A Night At The Movies: A brief intro to automation'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/14/a-night-at-the-movies-a-brief-intro-to-automation/'
-date = 2013-10-14
+date = '2013-10-14T08:00:00+09:30'
 categories = ['A Night At The Movies']
 +++
 

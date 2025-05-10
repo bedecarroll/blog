@@ -1,9 +1,6 @@
 +++
 title = 'Installing Windows 10 Technical Preview On A VHDX'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2015/01/28/install-windows-10-tech-preview-on-vhdx/'
-date = 2015-01-28
+date = '2015-01-28T08:00:00+09:30'
 categories = ['Windows', 'DISM']
 +++
 

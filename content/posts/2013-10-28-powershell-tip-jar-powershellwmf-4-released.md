@@ -1,9 +1,6 @@
 +++
 title = 'PowerShell Tip Jar: PowerShell/WMF 4 released'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/28/powershell-tip-jar-powershellwmf-4-released/'
-date = 2013-10-28
+date = '2013-10-28T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 

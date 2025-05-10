@@ -1,9 +1,6 @@
 +++
 title = 'PowerShell Tip Jar: Making things the way you like it'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/21/powershell-tip-jar-making-things-the-way-you-like-it/'
-date = 2013-10-21
+date = '2013-10-21T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 

@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Reliable Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/30/the-internet-fishing-trawler-reliable-edition/'
-date = 2013-12-30
+date = '2013-12-30T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

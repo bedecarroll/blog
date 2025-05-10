@@ -1,9 +1,6 @@
 +++
 title = 'Building your own lab with software'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/14/building-your-own-lab-with-software/'
-date = 2013-10-14
+date = '2013-10-14T08:00:00+09:30'
 categories = ['Uncategorized']
 +++
 

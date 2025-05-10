@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Food For Thought Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/04/the-internet-fishing-trawler-edition/'
-date = 2013-11-04
+date = '2013-11-04T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

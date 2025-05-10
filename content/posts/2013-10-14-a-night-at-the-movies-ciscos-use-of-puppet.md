@@ -1,9 +1,6 @@
 +++
 title = 'A Night At The Movies: Cisco’s use of Puppet'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/14/a-night-at-the-movies-ciscos-use-of-puppet/'
-date = 2013-10-14
+date = '2013-10-14T08:00:00+09:30'
 categories = ['A Night At The Movies']
 +++
 

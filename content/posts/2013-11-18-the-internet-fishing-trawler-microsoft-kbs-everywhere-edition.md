@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Microsoft KBs Everywhere! Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/18/the-internet-fishing-trawler-microsoft-kbs-everywhere-edition/'
-date = 2013-11-18
+date = '2013-11-18T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

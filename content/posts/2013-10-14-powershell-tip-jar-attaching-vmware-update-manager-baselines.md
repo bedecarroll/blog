@@ -1,9 +1,6 @@
 +++
 title = 'PowerShell Tip Jar: Attaching VMware Update Manager baselines'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/14/powershell-tip-jar-attaching-vmware-update-manager-baselines/'
-date = 2013-10-14
+date = '2013-10-14T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 

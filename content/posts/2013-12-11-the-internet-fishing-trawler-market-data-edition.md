@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Market Data Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/11/the-internet-fishing-trawler-market-data-edition/'
-date = 2013-12-11
+date = '2013-12-11T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

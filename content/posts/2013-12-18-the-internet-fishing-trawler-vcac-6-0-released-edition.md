@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: vCAC 6.0 Released Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/18/the-internet-fishing-trawler-vcac-6-0-released-edition/'
-date = 2013-12-18
+date = '2013-12-18T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

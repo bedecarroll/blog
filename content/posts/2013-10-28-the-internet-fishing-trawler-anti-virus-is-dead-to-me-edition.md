@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Anti-Virus Is Dead To Me Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/28/the-internet-fishing-trawler-anti-virus-is-dead-to-me-edition/'
-date = 2013-10-28
+date = '2013-10-28T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

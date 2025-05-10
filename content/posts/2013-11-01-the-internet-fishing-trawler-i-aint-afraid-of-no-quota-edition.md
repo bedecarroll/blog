@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: I Ain&#8217;t Afraid Of No Quota Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/01/the-internet-fishing-trawler-i-aint-afraid-of-no-quota-edition/'
-date = 2013-11-01
+date = '2013-11-01T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

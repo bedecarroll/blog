@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Cisco ACI Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/11/the-internet-fishing-trawler-cisco-aci-edition/'
-date = 2013-11-11
+date = '2013-11-11T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

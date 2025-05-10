@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: YAY Networking! Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/09/the-internet-fishing-trawler-yay-networking-edition/'
-date = 2013-12-09
+date = '2013-12-09T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

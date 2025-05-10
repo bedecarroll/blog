@@ -1,6 +1,6 @@
 +++
 title = 'FreeNAS/ZFS performance testing'
-date = "2015-01-26T08:00:00+09:30"
+date = '2015-01-26T08:00:00+09:30'
 categories = ['FreeNAS', 'ZFS']
 +++
 

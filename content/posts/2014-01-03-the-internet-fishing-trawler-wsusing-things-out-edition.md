@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: WSUSing Things Out Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2014/01/03/the-internet-fishing-trawler-wsusing-things-out-edition/'
-date = 2014-01-03
+date = '2014-01-03T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

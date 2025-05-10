@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Wall Decoration Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/02/the-internet-fishing-trawler-wall-decoration-edition/'
-date = 2013-12-02
+date = '2013-12-02T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

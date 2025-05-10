@@ -1,9 +1,6 @@
 +++
 title = 'A Night At The Movies: Puppet with vCAC 6.0 in action'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/16/a-night-at-the-movies-puppet-with-vcac-6-0-in-action/'
-date = 2013-10-16
+date = '2013-10-16T08:00:00+09:30'
 categories = ['A Night At The Movies']
 +++
 

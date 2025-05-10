@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: What Really Matters Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/06/the-internet-fishing-trawler-what-really-matters-edition/'
-date = 2013-12-06
+date = '2013-12-06T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

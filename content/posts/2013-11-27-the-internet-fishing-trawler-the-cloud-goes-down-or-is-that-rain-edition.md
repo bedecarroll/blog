@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: The Cloud Goes Down (Or Is That Rain?) Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/27/the-internet-fishing-trawler-the-cloud-goes-down-or-is-that-rain-edition/'
-date = 2013-11-27
+date = '2013-11-27T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

@@ -1,9 +1,6 @@
 +++
 title = 'A Night At The Movies: vSphere and OpenStack with VOVA'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/14/a-night-at-the-movies-vsphere-and-openstack-with-vova/'
-date = 2013-11-14
+date = '2013-11-14T08:00:00+09:30'
 categories = ['A Night At The Movies']
 +++
 

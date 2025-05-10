@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Merry Christmas Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/25/the-internet-fishing-trawler-merry-christmas-edition/'
-date = 2013-12-25
+date = '2013-12-25T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

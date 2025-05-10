@@ -1,9 +1,6 @@
 +++
 title = 'The sorry state of Cisco network monitoring software'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2012/11/07/the-sorry-state-of-cisco-network-monitoring-software/'
-date = 2012-11-07
+date = '2012-11-07T08:00:00+09:30'
 categories = ['Cisco']
 +++
 

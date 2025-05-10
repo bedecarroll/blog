@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Useful PowerShell Links Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/27/the-internet-fishing-trawler-useful-powershell-links-edition/'
-date = 2013-12-27
+date = '2013-12-27T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

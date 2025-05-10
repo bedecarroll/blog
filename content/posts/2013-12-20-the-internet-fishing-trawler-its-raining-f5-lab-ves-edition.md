@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: It’s Raining F5 Lab VEs! Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/20/the-internet-fishing-trawler-its-raining-f5-lab-ves-edition/'
-date = 2013-12-20
+date = '2013-12-20T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

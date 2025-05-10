@@ -1,9 +1,6 @@
 +++
 title = 'vCAC 6.0 announced'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/16/vcac-6-0-announced/'
-date = 2013-10-16
+date = '2013-10-16T08:00:00+09:30'
 categories = ['Uncategorized']
 +++
 

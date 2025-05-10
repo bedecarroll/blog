@@ -1,9 +1,6 @@
 +++
 title = 'PowerShell Tip Jar: PowerShell&#8217;d WinSAT on Windows 8.1'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/12/powershell-tip-jar-powershelld-winsat-on-windows-8-1/'
-date = 2013-11-12
+date = '2013-11-12T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 

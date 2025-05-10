@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: vSphere vSphere vSphere Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/16/the-internet-fishing-trawler-vshpere-vshpere-vshpere-edition/'
-date = 2013-10-16
+date = '2013-10-16T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

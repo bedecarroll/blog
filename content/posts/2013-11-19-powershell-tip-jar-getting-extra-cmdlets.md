@@ -1,9 +1,6 @@
 +++
 title = 'PowerShell Tip Jar: Getting extra cmdlets'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/19/powershell-tip-jar-getting-extra-cmdlets/'
-date = 2013-11-19
+date = '2013-11-19T08:00:00+09:30'
 categories = ['PowerShell Tip Jar']
 +++
 

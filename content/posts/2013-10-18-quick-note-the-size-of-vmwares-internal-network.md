@@ -1,9 +1,6 @@
 +++
 title = 'Quick Note: The size of VMware’s internal network'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/18/quick-note-the-size-of-vmwares-internal-network/'
-date = 2013-10-18
+date = '2013-10-18T08:00:00+09:30'
 categories = ['Uncategorized']
 +++
 

@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: XtremeIO Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/25/the-internet-fishing-trawler-xtremeio-edition/'
-date = 2013-11-25
+date = '2013-11-25T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

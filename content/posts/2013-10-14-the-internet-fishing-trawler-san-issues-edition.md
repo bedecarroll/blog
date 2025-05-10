@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: SAN issues edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/14/the-internet-fishing-trawler-san-issues-edition/'
-date = 2013-10-14
+date = '2013-10-14T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

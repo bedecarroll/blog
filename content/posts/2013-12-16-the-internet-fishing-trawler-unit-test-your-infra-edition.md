@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Unit Test Your Infra Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/12/16/the-internet-fishing-trawler-unit-test-your-infra-edition/'
-date = 2013-12-16
+date = '2013-12-16T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

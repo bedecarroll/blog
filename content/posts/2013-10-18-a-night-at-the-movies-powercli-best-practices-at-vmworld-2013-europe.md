@@ -1,9 +1,6 @@
 +++
 title = 'A Night At The Movies: PowerCLI Best Practices at VMworld 2013 Europe'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/10/18/a-night-at-the-movies-powercli-best-practices-at-vmworld-2013-europe/'
-date = 2013-10-18
+date = '2013-10-18T08:00:00+09:30'
 categories = ['A Night At The Movies']
 +++
 

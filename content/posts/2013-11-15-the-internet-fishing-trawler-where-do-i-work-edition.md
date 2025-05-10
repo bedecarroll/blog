@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Where Do I Work? Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/15/the-internet-fishing-trawler-where-do-i-work-edition/'
-date = 2013-11-15
+date = '2013-11-15T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

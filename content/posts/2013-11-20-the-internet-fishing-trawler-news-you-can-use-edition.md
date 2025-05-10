@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: News You Can Use Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/20/the-internet-fishing-trawler-news-you-can-use-edition/'
-date = 2013-11-20
+date = '2013-11-20T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 * For all you Microsoft admins out there, Redmond has release

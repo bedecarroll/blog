@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: Radio Free NSX Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/06/the-internet-fishing-trawler-radio-free-nsx-edition/'
-date = 2013-11-06
+date = '2013-11-06T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 

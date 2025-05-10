@@ -1,9 +1,6 @@
 +++
 title = 'The Internet Fishing Trawler: XP Strikes Back Edition'
-author = 'Bede Carroll'
-layout = 'post'
-url = '/2013/11/29/the-internet-fishing-trawler-xp-strikes-back-edition/'
-date = 2013-11-29
+date = '2013-11-29T08:00:00+09:30'
 categories = ['The Internet Fishing Trawler']
 +++
 
