@@ -1,6 +1,10 @@
 baseURL = "https://bedecarroll.com/"
 languageCode = "en-us"
-pagination.pagerSize = 5
+
+[pagination]
+disableAliases = true
+pagerSize = 5
+path = "page"
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
@@ -128,7 +132,7 @@ url = "/categories"
 path = "github.com/panr/hugo-theme-terminal/v4"
 
 [outputs]
-home = ["HTML", "AMP", "RSS"]
+home = ["HTML", "RSS"]
 
 [outputFormats.RSS]
 baseName = "feed"
