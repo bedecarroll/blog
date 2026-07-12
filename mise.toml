@@ -1,0 +1,16 @@
+min_version = "2025.9.10"
+
+[tools]
+hugo = "latest"
+
+[tasks.lint]
+description = "Lint blog content markdown"
+run = ["markdownlint-cli2"]
+
+[tasks.build]
+description = "Build the Hugo site"
+run = ["hugo --gc --minify"]
+
+[tasks.check]
+description = "Aggregate lint and build"
+depends = ["lint", "build"]
