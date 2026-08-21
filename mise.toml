@@ -1,7 +1,7 @@
 min_version = "2025.9.10"
 
 [tools]
-hugo = "latest"
+hugo = "0.165.0"
 
 [tasks.lint]
 description = "Lint blog content markdown"
