@@ -88,3 +88,8 @@
 
 <!-- Extended head section-->
 {{ partial "extended_head.html" . }}
+
+{{ with resources.Get "js/webmcp.js" }}
+  {{ $webmcp := . | minify | fingerprint }}
+  <script type="module" src="{{ $webmcp.RelPermalink }}" integrity="{{ $webmcp.Data.Integrity }}"></script>
+{{ end }}
