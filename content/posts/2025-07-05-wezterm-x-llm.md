@@ -221,7 +221,7 @@ investigate issues.
 ## Usage
 
 | Shortcut | Action |
-|----------|--------|
+| ---------- | -------- |
 | {{< kbd CTRL >}}+{{< kbd ALT >}}+{{< kbd l >}} | Capture the **visible screen**, ask a question, show the reply. |
 | {{< kbd CTRL >}}+{{< kbd ALT >}}+{{< kbd L >}} | Ask how many **scroll‑back** lines to capture before questioning. |
 | {{< kbd CTRL >}}+{{< kbd ALT >}}+{{< kbd N >}} | Start a **fresh conversation** for the current pane. |
@@ -234,7 +234,7 @@ for juggling multiple sessions.
 ## Troubleshooting
 
 | Symptom | Fix |
-|---------|----|
+| --------- | ---- |
 | *“API key not set”* toast | Save the key with `llm auth …` **or** source your RC inside the helper as shown. |
 | `Directory "~" is not readable` warning | Ensure the helper path is the **first** element in the `args` table. |
 | `attempt to call a nil value (method 'perform_action')` | Update to WezTerm ≥ 20220319 or use the exact Lua code above. |
